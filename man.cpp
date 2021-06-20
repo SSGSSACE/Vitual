@@ -4,11 +4,11 @@ using namespace std;
 class coso
 {
 public:
-     void show()
+    virtual void show()
     {
         cout << "\n  Hien thi lop co so:";
     }
-    void display()
+    virtual void display()
     {
         cout << "\n  Trung bay lop co so:";
     }
