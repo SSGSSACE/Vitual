@@ -4,7 +4,7 @@ using namespace std;
 class coso
 {
 public:
-    virtual void show()
+     void show()
     {
         cout << "\n  Hien thi lop co so:";
     }
